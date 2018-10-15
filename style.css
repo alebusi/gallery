@@ -1,27 +1,4 @@
-.container {
-    width: 880px;
-    margin: 50px auto;
-}
-@media screen and (max-width: 900px) {
-  .container {
-      width: 590px;
-  }
-}
-.menu {
+.immagine {
     display: inline-block;
-    margin: 20px;
-    background-color: #ffbf18;
-    width: 250px;
-    font-size: 70px;
-    color: black;
-    font-family: Arial;
-    padding-top: 90px;
-    padding-bottom: 90px;
-    text-align: center;
-}
-.menu:hover {
-    background-color: orange;
-}
-a {
-    cursor: default;
+    margin: 50px;
 }
