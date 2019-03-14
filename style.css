@@ -2,3 +2,5 @@
     display: inline-block;
     margin: 50px;
 }
+#img-1 {filter: invert(100%); -webkit-filter: invert(100%);}
+
